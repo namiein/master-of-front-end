@@ -2,7 +2,9 @@
 ### __*Projects You Can Do to Become a Frontend Master*__
 
 ## No.1 Calculator App 
-![Duration](https://img.shields.io/badge/Duration-2023.01.01%20~%202023.01.01-pink?style=flat)
+![Duration](https://img.shields.io/badge/Duration-2023.01.01%20~%202023.01.07-pink?style=flat)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namiein&repo=master-of-calculator&theme=dracula)](https://github.com/namiein/master-of-calculator)   
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
